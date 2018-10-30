@@ -8,24 +8,29 @@ categories: jekyll update
 1.เปิดโปรแกรม Terminal
 
 2.ติดตั้งโปรแกรม Jekyll 
+
 ใช้คำสั่ง 
 {% highlight ruby %}
 gem install bundler jekyll
 {% endhighlight %}
 
 3.สร้างโฟลเดอร์ `my-blog` และแบบร่าง blog 
+
 ใช้คำสั่ง 
 {% highlight ruby %}
 jekyll new my-blog         
 {% endhighlight %}
 
 4.เจาะเข้าไปในโฟลเดอร์ `my-blog` 
+
 ใช้คำสั่ง 
 {% highlight ruby %}
 cd my-blog                 
 {% endhighlight %}
 
-5.ใช้คำสั่ง 
+5.สุดท้าย 
+
+ใช้คำสั่ง 
 {% highlight ruby %}
 bundle exec jekyll serve
 {% endhighlight %}
