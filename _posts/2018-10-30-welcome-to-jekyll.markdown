@@ -14,22 +14,7 @@ gem install bundler jekyll
 {% endhighlight %}
 
 3. ใช้คำสั่ง 
-{% highlight ruby %}
-jekyll new my-blog         
-# สร้าง blog ใหม่ในโฟลเดอร์ `my-blog`
-{% endhighlight %}
 
-4. ใช้คำสั่ง 
-{% highlight ruby %}
-cd my-blog                 
-# เพื่อเข้าไปในโฟลเดอร์ `my-blog`
-{% endhighlight %}
-
-5. ใช้คำสั่ง 
-{% highlight ruby %}
-bundle exec jekyll serve
-# => ถึงจุดนี้สามารถเปิด browser เพื่อดู blog ที่พึ่งสร้างใหม่ได้ที่ http://localhost:4000
-{% endhighlight %}
 
 จบ.
 
