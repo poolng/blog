@@ -36,7 +36,7 @@ bundle exec jekyll serve
 {% endhighlight %}
 เปิด blog ให้ใช้งานได้
 
-ถึงจุดนี้สามารถเปิด web browser (Chrome, FireFox, IE, Safari) 
+ถึงจุดนี้สามารถเปิด web browser (Chrome, FireFox, IE, Safari และอื่นๆ ตามชอบ) 
 เพื่อดู blog ที่พึ่งสร้างใหม่ได้ที่ http://localhost:4000
 
 
